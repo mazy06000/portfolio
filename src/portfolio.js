@@ -28,7 +28,7 @@ const projects = [
   {
     name: 'Recommendation System',
     description:
-      'A company want to build a mobile app of books reading and build a recommender system to recommend new books to users.',
+      'A company wants to build a mobile app of books reading and build a recommender system to recommend new books to users.',
     stack: ['Python', 'Azure Cloud', 'ReactJS'],
     sourceCode: 'https://github.com',
     livePreview: 'https://github.com',
@@ -36,7 +36,7 @@ const projects = [
   {
     name: 'Autonomous Car',
     description:
-      'The company want to build a model in order to make an autonomous car. There are three task to do: image processing, image segmentation and decision making.',
+      'The company wants to build a model in order to make an autonomous car. There are three task to do: image processing, image segmentation and decision making.',
     stack: ['Python', 'Azure Cloud', 'Flask', 'Tensorflow', 'Computer Vision'],
     sourceCode: 'https://github.com',
     livePreview: 'https://github.com',
@@ -52,7 +52,7 @@ const projects = [
   {
     name: 'Topic Modeling & Image Labeling',
     description:
-      'A customer reviews company want to know the dissatisfaction topics and to label automatically images uploaded by a customer.',
+      'A customer reviews company wants to know the dissatisfaction topics and to label automatically images uploaded by a customer.',
     stack: ['Python', 'Tensorflow','NLP','Computer Vision'],
     sourceCode: 'https://github.com',
     livePreview: 'https://github.com',
@@ -60,7 +60,7 @@ const projects = [
   {
     name: 'Customer Segmentation',
     description:
-      'E-commerce company want to segment their customers in order to make a marketing decision based on their habits.',
+      'E-commerce company wants to segment their customers in order to make a marketing decision based on their habits.',
     stack: ['Python', 'Scikit-learn'],
     sourceCode: 'https://github.com',
     livePreview: 'https://github.com',
@@ -68,7 +68,7 @@ const projects = [
   {
     name: 'Loan Prediction',
     description:
-      'Financial company want to automize the checking process if a customer is eligible to loan and to explain why the customer is eligible or not.',
+      'Financial company wants to automize the checking process if a customer is eligible to loan and to explain why the customer is eligible or not.',
     stack: ['Python', 'Scikit-learn'],
     sourceCode: 'https://github.com',
     livePreview: 'https://github.com',
