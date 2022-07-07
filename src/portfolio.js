@@ -13,7 +13,7 @@ const about = {
     Once I have completed my Bachelor's Degree in Computer Science, I decided to leave France to the UK.
     During my online Master's Degree in Data Science I learnt Data Analysis, Data Engineering and Data Science
     Besides that I learnt English and did personal projects, but also while working as Full Stack Developer,
-    Data Scientist/Analyst and Data Anotator for 3 different companies.
+    Data Scientist/Analyst and Data Annotator for 3 different companies.
     I love learning new things, I adapt quickly, and to leave my comfort zone does not scare me.`,
   resume: 'resume.pdf',
   social: {
@@ -44,7 +44,7 @@ const projects = [
   {
     name: 'Detect Negative Reviews',
     description:
-      'An airline company want to detect all negative reviews against their company in order to improve their services.',
+      'An airline company wants to detect all negative reviews against their company in order to improve their services.',
     stack: ['Python', 'Azure Cloud', 'Steamlit','Rest API','NLP','BERT'],
     sourceCode: 'https://github.com',
     livePreview: 'https://github.com',
