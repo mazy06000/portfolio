@@ -5,7 +5,7 @@ import './About.css'
 import resumePdf from '../../assets/resume.pdf';
 
 const About = () => {
-  const { name, role, description, resume, social } = about
+  const { name, role, description, email, resume, social } = about
 
   return (
     <div className='about center'>
@@ -19,6 +19,16 @@ const About = () => {
       <p className='about__desc'>{description && description}</p>
 
       <div className='about__contact center'>
+
+
+        {email && (
+          <a href={`mailto:${email}`}>
+          <span type='button' className='btn btn--outline'>
+            Email me
+          </span>
+        </a>
+        )}
+
         {resume && (
           <a href={resumePdf} download={resume}>
             <span type='button' className='btn btn--outline'>

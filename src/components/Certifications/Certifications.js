@@ -11,7 +11,8 @@ import 'swiper/modules/pagination/pagination.min.css'
 
 import pythnLvl1 from "../../assets/badges/machine-learning-with-python-level-1.png"
 import stanfordML from "../../assets/badges/stanford-ml.png"
-
+import pythonDataScience from "../../assets/badges/python-for-data-science.png"
+import AIFoundations from "../../assets/badges/ibm-ai-foundations-for-business-specialization.png"
 
 
 const certifications = [
@@ -22,6 +23,14 @@ const certifications = [
     {
         link: "https://www.coursera.org/account/accomplishments/certificate/72N7YTEWVGB7",
         path: stanfordML,
+    },
+    {
+        link: "https://www.credly.com/badges/85267101-16f3-4ebd-9aea-7647f47354ad/public_url",
+        path: pythonDataScience,
+    },
+    {
+        link: "https://www.credly.com/badges/9378517f-b79e-45eb-9a94-4c379d670408/public_url",
+        path: AIFoundations,
     },
 ]
 

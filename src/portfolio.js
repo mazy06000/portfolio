@@ -11,10 +11,11 @@ const about = {
   description:
     `After participing to a Google Machine Learning workshop, I knew that I wanted to work as AI Engineer.
     Once I have completed my Bachelor's Degree in Computer Science, I decided to leave France to the UK.
-    During my online Master's Degree in Data Science I learnt Data Analysis, Data Engineering and Data Science
+    During my online Master's Degree in Data Science I learnt Data Analysis, Data Engineering and Data Science.
     Besides that I learnt English and did personal projects, but also while working as Full Stack Developer,
     Data Scientist/Analyst and Data Annotator for 3 different companies.
     I love learning new things, I adapt quickly, and to leave my comfort zone does not scare me.`,
+  email: 'mazymohamed06@gmail.com',
   resume: 'resume.pdf',
   social: {
     linkedin: 'https://www.linkedin.com/in/mohamed-mazy',
@@ -45,7 +46,7 @@ const projects = [
     name: 'Detect Negative Reviews',
     description:
       'An airline company wants to detect all negative reviews against their company in order to improve their services.',
-    stack: ['Python', 'Azure Cloud', 'Steamlit','Rest API','NLP','BERT'],
+    stack: ['Python', 'Azure Cloud', 'Steamlit', 'Rest API', 'NLP', 'BERT'],
     sourceCode: 'https://github.com',
     livePreview: 'https://github.com',
   },
@@ -53,7 +54,7 @@ const projects = [
     name: 'Topic Modeling & Image Labeling',
     description:
       'A customer reviews company wants to know the dissatisfaction topics and to label automatically images uploaded by a customer.',
-    stack: ['Python', 'Tensorflow','NLP','Computer Vision'],
+    stack: ['Python', 'Tensorflow', 'NLP', 'Computer Vision'],
     sourceCode: 'https://github.com',
     livePreview: 'https://github.com',
   },
@@ -103,7 +104,7 @@ const skills = [
 
 const contact = {
   // email is optional - if left empty Contact section won't show up
-  email: 'mazymohamed06@gmail.com',
+  email: null,
 }
 
 export { header, about, projects, skills, contact }

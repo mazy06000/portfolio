@@ -8,10 +8,13 @@
   }
 
 .logo {
-    border-radius: 50%;
+    /* border-radius: 50%; */
     margin: 0 auto 3rem;
 }
 
+.swiper-pagination-clickable .swiper-pagination-bullet {
+    background: var(--clr-primary);
+}
 
 /* @media screen and (max-width: 600px){
     .certifications__list {
