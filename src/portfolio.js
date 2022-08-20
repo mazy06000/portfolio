@@ -37,7 +37,7 @@ const projects = [
   {
     name: 'Autonomous Car',
     description:
-      'The company wants to build a model in order to make an autonomous car. There are three task to do: image processing, image segmentation and decision making.',
+      'A company wants to build a model to make an autonomous car. There are three task to do: image processing, image segmentation and decision making.',
     stack: ['Python', 'Azure Cloud', 'Flask', 'Tensorflow', 'Computer Vision'],
     sourceCode: '',
     livePreview: '',
@@ -45,7 +45,7 @@ const projects = [
   {
     name: 'Detect Negative Reviews',
     description:
-      'An airline company wants to detect all negative reviews against their company in order to improve their services.',
+      'An airline company wants to detect all negative reviews against their company to improve their services.',
     stack: ['Python', 'Azure Cloud', 'Steamlit', 'Rest API', 'NLP', 'BERT'],
     sourceCode: '',
     livePreview: '',
@@ -61,7 +61,7 @@ const projects = [
   {
     name: 'Customer Segmentation',
     description:
-      'E-commerce company wants to segment their customers in order to make a marketing decision based on their habits.',
+      'An e-commerce company wants to segment their customers to make a marketing decision based on their habits.',
     stack: ['Python', 'Scikit-learn'],
     sourceCode: '',
     livePreview: '',
@@ -69,7 +69,7 @@ const projects = [
   {
     name: 'Loan Prediction',
     description:
-      'Financial company wants to automize the checking process if a customer is eligible to loan and to explain why the customer is eligible or not.',
+      'An financial company wants to automize the checking process if a customer is eligible to loan and to explain why the customer is eligible or not.',
     stack: ['Python', 'Scikit-learn'],
     sourceCode: '',
     livePreview: '',
