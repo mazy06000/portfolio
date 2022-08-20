@@ -99,7 +99,10 @@ const skills = [
   'Plotly',
   'Azure Services',
   'Docker',
-  'Seaborn'
+  'Seaborn',
+  'JavaScript',
+  'FastAPI',
+  'HTML/CSS',
 ]
 
 const contact = {
