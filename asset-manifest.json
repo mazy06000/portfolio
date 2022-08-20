@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e3348b00.chunk.css",
+    "main.js": "/static/js/main.b7d7f895.chunk.js",
+    "main.js.map": "/static/js/main.b7d7f895.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.26096b02.js",
+    "runtime-main.js.map": "/static/js/runtime-main.26096b02.js.map",
+    "static/css/2.6f360ebc.chunk.css": "/static/css/2.6f360ebc.chunk.css",
+    "static/js/2.f560e5da.chunk.js": "/static/js/2.f560e5da.chunk.js",
+    "static/js/2.f560e5da.chunk.js.map": "/static/js/2.f560e5da.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.6f360ebc.chunk.css.map": "/static/css/2.6f360ebc.chunk.css.map",
+    "static/css/main.e3348b00.chunk.css.map": "/static/css/main.e3348b00.chunk.css.map",
+    "static/js/2.f560e5da.chunk.js.LICENSE.txt": "/static/js/2.f560e5da.chunk.js.LICENSE.txt",
+    "static/media/ibm-ai-foundations-for-business-specialization.cdf62125.png": "/static/media/ibm-ai-foundations-for-business-specialization.cdf62125.png",
+    "static/media/machine-learning-with-python-level-1.58397040.png": "/static/media/machine-learning-with-python-level-1.58397040.png",
+    "static/media/python-for-data-science.62b184f9.png": "/static/media/python-for-data-science.62b184f9.png",
+    "static/media/resume.0c236976.pdf": "/static/media/resume.0c236976.pdf",
+    "static/media/stanford-ml.072bccc4.png": "/static/media/stanford-ml.072bccc4.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.26096b02.js",
+    "static/css/2.6f360ebc.chunk.css",
+    "static/js/2.f560e5da.chunk.js",
+    "static/css/main.e3348b00.chunk.css",
+    "static/js/main.b7d7f895.chunk.js"
+  ]
+}
