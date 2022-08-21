@@ -39,8 +39,8 @@ const projects = [
     description:
       'A company wants to build a model to make an autonomous car. There are three task to do: image processing, image segmentation and decision making.',
     stack: ['Python', 'Azure Cloud', 'Flask', 'Tensorflow', 'Computer Vision'],
-    sourceCode: '',
-    livePreview: '',
+    sourceCode: 'https://github.com/mazy06000/autonomous-car',
+    livePreview: 'https://mazy06000-autonomous-car-app-g72fil.streamlitapp.com/',
   },
   {
     name: 'Detect Negative Reviews',
