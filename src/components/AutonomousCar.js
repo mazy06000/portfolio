@@ -4,7 +4,7 @@ const AutonomousCar = () => {
 
     document.body.style.overflow = "hidden";
 
-    const url = "https://mazy06000-autonomous-car-app-g72fil.streamlitapp.com/?embedded=true"
+    const url = "//mazy06000-autonomous-car-app-g72fil.streamlitapp.com/?embedded=true"
   
 
     return (
