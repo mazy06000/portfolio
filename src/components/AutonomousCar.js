@@ -16,9 +16,11 @@ const AutonomousCar = () => {
     }
 
     const url = "https://mazy06000-autonomous-car-app-g72fil.streamlitapp.com/?embedded=true"
-  
-    return (
-        <iframe src={url}
+
+    const div =(
+         <div  className="holder">
+            <div className="bar"><a href='/'>X</a></div>
+           <iframe src={url}
                 id="streamlitApp"
                 frameBorder="0"
                 marginHeight="0"
@@ -26,9 +28,12 @@ const AutonomousCar = () => {
                 width="100%"
                 height="100%"
                 scrolling="auto"
-                title='StreamlitApp' />
-    )
-
+                title='StreamlitApp'
+                className="frame" />
+         </div>
+         )
+  
+    return div
 }
 
 
