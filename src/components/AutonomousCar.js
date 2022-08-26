@@ -1,4 +1,5 @@
 import './AutonomousCar.css'
+import BackToPortfolio from './BackToPortfolio/BackToPortfolio'
 
 
 
@@ -19,7 +20,9 @@ const AutonomousCar = () => {
 
     const div =(
          <div  className="holder">
-            <div className="bar"><a href='/'>X</a></div>
+            <div className="bar">
+                <BackToPortfolio />
+            </div>
            <iframe src={url}
                 id="streamlitApp"
                 frameBorder="0"
