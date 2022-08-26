@@ -42,7 +42,6 @@ const Certifications = () => {
             <h2 className='section__title'>Certifications</h2>
 
             <Swiper className='certifications__list'
-                // install Swiper modules
                 spaceBetween={20}
                 modules={[Pagination]}
                 slidesPerView={1}
