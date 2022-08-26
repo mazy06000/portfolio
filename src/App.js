@@ -9,7 +9,7 @@ import ScrollToTop from './components/ScrollToTop/ScrollToTop'
 import Contact from './components/Contact/Contact'
 import Footer from './components/Footer/Footer'
 import Certifications from './components/Certifications/Certifications'
-import AutonomousCar from './components/AutonomousCar'
+import Iframe from './components/Iframe/Iframe'
 import './App.css'
 
 
@@ -34,7 +34,7 @@ const App = () => {
                 <ScrollToTop />
                 <Footer />
               </div>} />
-              <Route path='/autonomous-car' element={<AutonomousCar/>} />
+              <Route path='/autonomous-car' element={<Iframe />} />
       </Routes>
     
     </Router>

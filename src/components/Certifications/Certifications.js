@@ -48,8 +48,8 @@ const Certifications = () => {
                 slidesPerView={1}
                 pagination={{ clickable: true }}>
                 {certifications.map((certification) => (
-                    <SwiperSlide>
-                        <a href={certification.link} key={uniqid()}>
+                    <SwiperSlide key={uniqid()}>
+                        <a href={certification.link}>
                             <img src={certification.path} alt='' className="logo" width="300" height="300" />
                         </a>
                     </SwiperSlide>
