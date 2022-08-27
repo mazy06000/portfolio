@@ -72,8 +72,9 @@ const projects = [
     description:
       'An financial company wants to automize the checking process if a customer is eligible to loan and to explain why the customer is eligible or not.',
     stack: ['Python', 'Scikit-learn'],
-    sourceCode: '',
-    livePreview: '',
+    sourceCode: 'https://github.com/mazy06000/loan-prediction',
+    livePreview: '/loan-prediction',
+    streamlitUrl: 'https://mazy06000-loan-prediction-app-dk6un8.streamlitapp.com/'
   },
 ]
 
