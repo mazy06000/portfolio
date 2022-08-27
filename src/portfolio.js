@@ -48,9 +48,9 @@ const projects = [
     description:
       'An airline company wants to detect all negative reviews against their company to improve their services.',
     stack: ['Python', 'Azure Cloud', 'Steamlit', 'Rest API', 'NLP', 'BERT'],
-    sourceCode: 'https://github.com/mazy06000/negative-reviews',
-    livePreview: '/negative-reviews',
-    streamlitUrl: 'https://mazy06000-negative-reviews-app-6g8498.streamlitapp.com/'
+    sourceCode: 'https://github.com/mazy06000/negative-reviews-detection/',
+    livePreview: '/negative-reviews-detection',
+    streamlitUrl: 'https://mazy06000-negative-reviews-detection-app-i8s0g1.streamlitapp.com/'
   },
   {
     name: 'Topic Modeling & Image Labeling',
