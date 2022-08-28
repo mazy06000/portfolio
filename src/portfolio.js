@@ -57,8 +57,9 @@ const projects = [
     description:
       'A customer reviews company wants to know the dissatisfaction topics and to label automatically images uploaded by a customer.',
     stack: ['Python', 'Tensorflow', 'NLP', 'Computer Vision'],
-    sourceCode: '',
-    livePreview: '',
+    sourceCode: 'https://github.com/mazy06000/topic-modeling-image-labeling',
+    livePreview: '/topic-modeling-image-labeling',
+    streamlitUrl: 'https://mazy06000-topic-modeling-image-labeling-app-h84ng2.streamlitapp.com/'
   },
   {
     name: 'Customer Segmentation',

@@ -37,6 +37,7 @@ const App = () => {
               <Route path='/autonomous-car' element={<Iframe />} />
               <Route path='/loan-prediction' element={<Iframe />} />
               <Route path='/negative-reviews-detection' element={<Iframe />} />
+              <Route path='/topic-modeling-image-labeling' element={<Iframe />} />
       </Routes>
     
     </Router>
