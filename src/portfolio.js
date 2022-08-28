@@ -30,7 +30,7 @@ const projects = [
     name: 'Recommendation System',
     description:
       'A company wants to build a mobile app of books reading and build a recommender system to recommend new books to users.',
-    stack: ['Python', 'Azure Cloud', 'ReactJS'],
+    stack: ['Python', 'Azure Cloud', 'ReactJS', 'Serverless'],
     sourceCode: '',
     livePreview: '',
   },
