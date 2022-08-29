@@ -31,8 +31,9 @@ const projects = [
     description:
       'A company wants to build a mobile app of books reading and build a recommender system to recommend new books to users.',
     stack: ['Python', 'Azure Cloud', 'ReactJS', 'Serverless'],
-    sourceCode: '',
-    livePreview: '',
+    sourceCode: 'https://github.com/mazy06000/recommendation-system',
+    livePreview: '/recommendation-system',
+    streamlitUrl: 'https://mazy06000-recommendation-system-app-0h0k2d.streamlitapp.com/'
   },
   {
     name: 'Autonomous Car',

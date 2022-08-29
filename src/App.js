@@ -38,6 +38,8 @@ const App = () => {
               <Route path='/loan-prediction' element={<Iframe />} />
               <Route path='/negative-reviews-detection' element={<Iframe />} />
               <Route path='/topic-modeling-image-labeling' element={<Iframe />} />
+              <Route path='/recommendation-system' element={<Iframe />} />
+              <Route path='/customer-segmentation' element={<Iframe />} />
       </Routes>
     
     </Router>
