@@ -66,8 +66,9 @@ const projects = [
     description:
       'An e-commerce company wants to segment their customers to make a marketing decision based on their habits.',
     stack: ['Python', 'Scikit-learn'],
-    sourceCode: '',
-    livePreview: '',
+    sourceCode: 'https://github.com/mazy06000/customer-segmentation',
+    livePreview: '/customer-segmentation',
+    streamlitUrl: 'https://mazy06000-customer-segmentation-notebook-eda-qf56mi.streamlitapp.com/'
   },
   {
     name: 'Loan Prediction',
