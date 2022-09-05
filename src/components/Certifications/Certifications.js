@@ -13,6 +13,7 @@ import pythnLvl1 from "../../assets/badges/machine-learning-with-python-level-1.
 import stanfordML from "../../assets/badges/stanford-ml.png"
 import pythonDataScience from "../../assets/badges/python-for-data-science.png"
 import AIFoundations from "../../assets/badges/ibm-ai-foundations-for-business-specialization.png"
+import DLEssentials from "../../assets/badges/deep-learning-essentials.png"
 
 
 const certifications = [
@@ -31,6 +32,10 @@ const certifications = [
     {
         link: "https://www.credly.com/badges/9378517f-b79e-45eb-9a94-4c379d670408/public_url",
         path: AIFoundations,
+    },
+    {
+        link: "https://www.credly.com/badges/c858a38b-fb67-429b-b2c8-5723cd43c3ce/public_url",
+        path: DLEssentials,
     },
 ]
 
