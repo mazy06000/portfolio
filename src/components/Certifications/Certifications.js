@@ -16,6 +16,7 @@ import AIFoundations from "../../assets/badges/ibm-ai-foundations-for-business-s
 import DLEssentials from "../../assets/badges/deep-learning-essentials.png"
 import DEEssentials from "../../assets/badges/data-engineering-essentials.png"
 import PythonForDSAI from "../../assets/badges/python-for-data-science-and-ai.png"
+import IntroRDBMS from "../../assets/badges/relational-databases-rdbms-essentials.png"
 
 
 const certifications = [
@@ -46,6 +47,10 @@ const certifications = [
     {
         link: "https://www.credly.com/badges/35a0c039-70d5-4325-9e4b-0382c17fe957/public_url",
         path: PythonForDSAI,
+    },
+    {
+        link: "https://www.credly.com/badges/182b4732-0e18-437a-a3b1-6354110b65a7/public_url",
+        path: IntroRDBMS,
     },
 ]
 
