@@ -9,7 +9,7 @@ const about = {
   name: 'Mohamed Mazy',
   role: 'AI Engineer | Software Engineer',
   description:
-    `As a highly motivated AI Engineer, I have a passion for utilizing cutting-edge technology to solve complex problems
+    `As a highly motivated AI Engineer, I have a passion for utilizing cutting-edge technology to solve complex problems.
      After participating in a Google Machine Learning workshop, I knew that I wanted to pursue a career in this field.
      Upon completing my Bachelor's Degree in Computer Science, I made the decision to further my education with an online Master's Degree in Data Science.
      During this program, I gained expertise in Data Analysis, Data Engineering, and Data Science.
@@ -30,7 +30,7 @@ const projects = [
   {
     name: 'Recommendation System',
     description:
-      'A company wants to build a mobile app of books reading and build a recommender system to recommend new books to users.',
+      'A company is looking to develop a mobile application for reading books and implementing a recommendation system to suggest new literature to users.',
     stack: ['Python', 'Azure Cloud', 'ReactJS', 'Serverless'],
     sourceCode: 'https://github.com/mazy06000/recommendation-system',
     livePreview: '/recommendation-system',
@@ -39,7 +39,7 @@ const projects = [
   {
     name: 'Autonomous Car',
     description:
-      'A company wants to build a model to make an autonomous car. There are three task to do: image processing, image segmentation and decision making.',
+      'A company is working on creating an autonomous vehicle by building a model that can perform image processing, image segmentation, and decision-making tasks.',
     stack: ['Python', 'Azure Cloud', 'Flask', 'Tensorflow', 'Computer Vision'],
     sourceCode: 'https://github.com/mazy06000/autonomous-car',
     livePreview: '/autonomous-car',
@@ -48,7 +48,7 @@ const projects = [
   {
     name: 'Detect Negative Reviews',
     description:
-      'An airline company wants to detect all negative reviews against their company to improve their services.',
+      'An airline company is seeking to identify all negative feedback regarding their services in order to implement improvements.',
     stack: ['Python', 'Azure Cloud', 'Steamlit', 'Rest API', 'NLP', 'BERT'],
     sourceCode: 'https://github.com/mazy06000/negative-reviews-detection/',
     livePreview: '/negative-reviews-detection',
@@ -57,7 +57,7 @@ const projects = [
   {
     name: 'Topic Modeling & Image Labeling',
     description:
-      'A customer reviews company wants to know the dissatisfaction topics and to label automatically images uploaded by a customer.',
+      'A customer reviews company wants to identify common themes of dissatisfaction and automatically classify images provided by customers.',
     stack: ['Python', 'Tensorflow', 'NLP', 'Computer Vision'],
     sourceCode: 'https://github.com/mazy06000/topic-modeling-image-labeling',
     livePreview: '/topic-modeling-image-labeling',
@@ -66,7 +66,7 @@ const projects = [
   {
     name: 'Customer Segmentation',
     description:
-      'An e-commerce company wants to segment their customers to make a marketing decision based on their habits.',
+      'An e-commerce company wants to divide their customers into groups in order to make marketing decisions based on their purchasing habits.',
     stack: ['Python', 'Scikit-learn'],
     sourceCode: 'https://github.com/mazy06000/customer-segmentation',
     livePreview: '/customer-segmentation',
@@ -75,7 +75,7 @@ const projects = [
   {
     name: 'Loan Prediction',
     description:
-      'An financial company wants to automize the checking process if a customer is eligible to loan and to explain why the customer is eligible or not.',
+      'A financial company wants to automate the loan eligibility evaluation process and provide explanations for the decision, whether the customer is approved or denied.',
     stack: ['Python', 'Scikit-learn'],
     sourceCode: 'https://github.com/mazy06000/loan-prediction',
     livePreview: '/loan-prediction',
