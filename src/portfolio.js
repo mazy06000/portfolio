@@ -9,12 +9,13 @@ const about = {
   name: 'Mohamed Mazy',
   role: 'AI Engineer | Software Engineer',
   description:
-    `After participing to a Google Machine Learning workshop, I knew that I wanted to work as AI Engineer.
-    Once I have completed my Bachelor's Degree in Computer Science, I decided to leave France to the UK.
-    During my online Master's Degree in Data Science I learnt Data Analysis, Data Engineering and Data Science.
-    Besides that I learnt English and did personal projects, but also while working as Full Stack Developer,
-    Data Scientist/Analyst and Data Annotator for 3 different companies.
-    I love learning new things, I adapt quickly, and to leave my comfort zone does not scare me.`,
+    `As a highly motivated AI Engineer, I have a passion for utilizing cutting-edge technology to solve complex problems
+     After participating in a Google Machine Learning workshop, I knew that I wanted to pursue a career in this field.
+     Upon completing my Bachelor's Degree in Computer Science, I made the decision to further my education with an online Master's Degree in Data Science.
+     During this program, I gained expertise in Data Analysis, Data Engineering, and Data Science.
+     I have also gained valuable experience working as a Full Stack Developer, Data Scientist/Analyst, and Data Annotator for several companies.
+     In addition, I have completed various certifications in Data Science, Data Analysis, Data Engineering, and Software Engineering.
+     I am a lifelong learner with a strong desire to understand how everything works and constantly seek new ways to automate processes.`,
   email: 'mazymohamed06@gmail.com',
   resume: 'resume.pdf',
   social: {
