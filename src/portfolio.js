@@ -28,6 +28,14 @@ const projects = [
   // projects can be added an removed
   // if there are no projects, Projects section won't show up
   {
+    name: 'GPT-3 Branding Assistant',
+    description:
+      'AI-powered branding assistant SaaS utilizing GPT-3 technology for businesses to create and maintain a strong brand identity.',
+    stack: ['Python', "FastAPI", 'AWS Lambda', 'ReactJS', 'Serverless', "Typescript", "NLP", "GPT-3", "Tailwind", "Vercel"],
+    sourceCode: 'https://github.com/mazy06000/gpt3-branding-assistant',
+    livePreview: 'https://transme.vercel.app/',
+  },
+  {
     name: 'Recommendation System',
     description:
       'A company is looking to develop a mobile application for reading books and implementing a recommendation system to suggest new literature to users.',
